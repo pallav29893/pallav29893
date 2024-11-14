@@ -1,0 +1,1 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Paaji+2&weight=500&size=36&pause=1000&color=25F7AF&width=690&height=52&lines=Hi%2C+I'm+Pallav+Choudhary+-+Backend+Developer+++" alt="Typing SVG" /></a>
